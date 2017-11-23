@@ -40,7 +40,7 @@
   "devDependencies": {
     "testutil": "~0.6.0",
     "mocha": "1.*",
-    "fs-extra": "~0.7.1"
+    "fs-extra": "~0.7.1",
     "uglify-js": "~2.4.1.3"
   }
 }
